@@ -1,20 +1,20 @@
-# 👨‍💻 Antoni Bossolan | Desenvolvedor de Software
+# 👨‍💻 Antoni Bossolan | Desenvolvedor em Evolução
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+constante+evolução;Apaixonado+por+tecnologia+e+inovação;Foco+em+soluções+inteligentes" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Desenvolvedor+em+constante+evolução;Apaixonado+por+tecnologia+e+inovação;Foco+em+soluções+inteligentes+e+eficientes" />
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou desenvolvedor em constante aprimoramento, com foco em soluções tecnológicas eficientes, escaláveis e bem estruturadas. Possuo forte interesse por sistemas inteligentes, automação, interfaces modernas e integração entre tecnologia e inovação.
+Sou desenvolvedor em constante crescimento, com foco em criação de soluções modernas, escaláveis e bem estruturadas. Possuo forte interesse em desenvolvimento web, automação, sistemas inteligentes e integração entre tecnologia e inovação.
 
-Atualmente, busco evolução contínua por meio de projetos práticos, estudo técnico e aplicação de boas práticas em desenvolvimento.
+Busco evolução contínua por meio de projetos práticos, estudo técnico e aplicação disciplinada de boas práticas.
 
 ---
 
-## 🚀 Tecnologias e Competências
+## 🚀 Tecnologias
 
 <div align="center">
 
@@ -25,6 +25,7 @@ Atualmente, busco evolução contínua por meio de projetos práticos, estudo t�
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
 
 </div>
 
@@ -33,7 +34,7 @@ Atualmente, busco evolução contínua por meio de projetos práticos, estudo t�
 ## 📊 Linguagens mais utilizadas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniBC03&layout=compact&theme=react" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniBC03&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -41,36 +42,43 @@ Atualmente, busco evolução contínua por meio de projetos práticos, estudo t�
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntoniBC03&show_icons=true&theme=react" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AntoniBC03&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🔗 Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Antoni Bossolan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  <a href="https://www.linkedin.com/in/antoni-bossolan-bb07b6279" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Antoni%20Bossolan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/AntoniBC03" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-AntoniBC03-000?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
 
-## 💡 Áreas de interesse
+## 💡 Áreas de Interesse
 
-- Desenvolvimento Web moderno  
-- Sistemas inteligentes e automação  
-- Integração backend e frontend  
-- Interfaces responsivas e funcionais  
+- Desenvolvimento Web Moderno  
+- Sistemas Inteligentes  
+- Automação de Processos  
+- Interfaces Responsivas  
+- Backend e APIs  
 - Inteligência Artificial aplicada  
 
 ---
 
-## 📌 Frase que me define
+## 📌 Filosofia
 
 <p align="center">
-  <i>"Disciplina, constância e visão constroem excelência."</i>
+  <i>"Constância, disciplina e visão transformam potencial em excelência."</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AntoniBC03&style=flat-square&color=blue" alt="profile views"/>
 </p>
