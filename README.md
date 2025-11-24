@@ -34,15 +34,16 @@ Busco evolução contínua por meio de projetos práticos, estudo técnico e apl
 ## 📊 Linguagens mais utilizadas
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniBC03&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniBC03&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
+
 
 ---
 
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AntoniBC03&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AntoniBC03&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
