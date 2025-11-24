@@ -1,38 +1,39 @@
-# 🚀 Nome do Projeto
+# 👨‍💻 Antoni Bossolan | Desenvolvedor de Software
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-blue" />
-  <img src="https://img.shields.io/badge/licença-MIT-green" />
-  <img src="https://img.shields.io/badge/versão-1.0.0-orange" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?logo=linkedin&style=flat-square" />
-  </a>
-  <a href="https://github.com/seu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-black?logo=github&style=flat-square" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+constante+evolução;Apaixonado+por+tecnologia+e+inovação;Foco+em+soluções+inteligentes" />
 </p>
 
 ---
 
-## 📌 Sobre o Projeto
+## 🧠 Sobre mim
 
-Este repositório apresenta uma aplicação desenvolvida com foco em organização, desempenho e escalabilidade, utilizando boas práticas e estruturação moderna.
+Sou desenvolvedor em constante aprimoramento, com foco em soluções tecnológicas eficientes, escaláveis e bem estruturadas. Possuo forte interesse por sistemas inteligentes, automação, interfaces modernas e integração entre tecnologia e inovação.
 
----
-
-## 🎯 Objetivo
-
-Proporcionar solução funcional, estável e intuitiva, promovendo eficiência operacional e experiência aprimorada ao usuário.
+Atualmente, busco evolução contínua por meio de projetos práticos, estudo técnico e aplicação de boas práticas em desenvolvimento.
 
 ---
 
-## 📊 Linguagens Mais Utilizadas
+## 🚀 Tecnologias e Competências
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+
+</div>
+
+---
+
+## 📊 Linguagens mais utilizadas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=react" />
 </p>
 
 ---
@@ -40,41 +41,36 @@ Proporcionar solução funcional, estável e intuitiva, promovendo eficiência o
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=react" />
 </p>
 
 ---
 
-## 🧩 Funcionalidades
+## 🌐 Conecte-se comigo
 
-- Interface moderna e responsiva  
-- Estrutura modular  
-- Gestão eficiente de dados  
-- Navegação fluida  
-- Segurança aplicada  
-
----
-
-## 🛠️ Tecnologias
-
-- HTML5  
-- CSS3 / Tailwind  
-- JavaScript / TypeScript  
-- React  
-- Node.js  
-- MongoDB / PostgreSQL  
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="https://github.com/SEU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
-## 📂 Estrutura do Projeto
+## 💡 Áreas de interesse
 
-```bash
-📦 Projeto
- ┣ 📁 src
- ┃ ┣ 📁 components
- ┃ ┣ 📁 pages
- ┃ ┣ 📁 services
- ┃ ┣ 📁 styles
- ┃ ┗ 📁 utils
- ┗ 📄 README.md
+- Desenvolvimento Web moderno  
+- Sistemas inteligentes e automação  
+- Integração backend e frontend  
+- Interfaces responsivas e funcionais  
+- Inteligência Artificial aplicada  
 
+---
+
+## 📌 Frase que me define
+
+<p align="center">
+  <i>"Disciplina, constância e visão constroem excelência."</i>
+</p>
