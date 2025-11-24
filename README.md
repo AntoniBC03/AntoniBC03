@@ -33,7 +33,7 @@ Atualmente, busco evolução contínua por meio de projetos práticos, estudo t�
 ## 📊 Linguagens mais utilizadas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniBC03&layout=compact&theme=react" />
 </p>
 
 ---
@@ -41,7 +41,7 @@ Atualmente, busco evolução contínua por meio de projetos práticos, estudo t�
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AntoniBC03&show_icons=true&theme=react" />
 </p>
 
 ---
@@ -49,10 +49,10 @@ Atualmente, busco evolução contínua por meio de projetos práticos, estudo t�
 ## 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/Antoni Bossolan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
-  <a href="https://github.com/SEU_USUARIO" target="_blank">
+  <a href="https://github.com/AntoniBC03" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
 </p>
